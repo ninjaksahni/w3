@@ -1,3 +1,4 @@
-streamlit>=1.32.0
-pandas>=2.0.0
-reportlab>=4.0.0
+# updated 2026-03-06
+streamlit==1.32.0
+pandas==2.2.1
+reportlab==4.1.0
